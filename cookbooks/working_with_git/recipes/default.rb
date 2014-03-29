@@ -7,5 +7,5 @@
 # All rights reserved - Do Not Redistribute
 #
 file "/tmp/working_with_git" do
-	content "I'm working with git."
+	content "I am working with git."
 end
